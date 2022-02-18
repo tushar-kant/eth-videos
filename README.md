@@ -1,1 +1,1 @@
-## Decentralized platform for video
+## Decentralized platform for video sharing AND watching
